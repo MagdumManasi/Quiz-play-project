@@ -1,114 +1,101 @@
-📚 Quiz Application
+# 🎯 Quiz Application
 
-A Java-based Quiz Application developed using Object-Oriented Programming (OOP) principles.
-This project provides an interactive quiz system where users can answer multiple-choice questions, receive scores, and test their knowledge through a simple console-based interface.
+A console-based **Quiz Application** developed using **Java** and **Object-Oriented Programming (OOP)** principles. This application allows users to participate in a multiple-choice quiz, submit answers, and receive their final score at the end of the quiz.
 
-🚀 Features :=>
+The project is designed to demonstrate the practical implementation of Java fundamentals and OOP concepts such as **Encapsulation, Abstraction, Classes, Objects, and Constructors** while building an interactive and user-friendly application.
 
-Multiple-choice questions
-Interactive console-based quiz
-Automatic score calculation
-Instant result display
-User-friendly menu-driven interface
-Structured using OOP concepts
+## ✨ Features
 
+- 📝 Multiple-choice quiz questions
+- ✅ Answer validation and score calculation
+- 🎯 Instant result generation
+- 🔄 Easy-to-manage question structure
+- 📚 Object-Oriented design
+- 💻 Simple console-based user interface
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-Java
-Object-Oriented Programming (OOP)
-Arrays / ArrayList
-Console Input (Scanner)
+- Java
+- Object-Oriented Programming (OOP)
+- Collections Framework (ArrayList)
+- Scanner Class
 
+## 📂 Project Structure
 
-📂 Project Structure
-
-QuizApplication
+```text
+QuizApplication/
 │
+├── Main.java
 ├── Question.java
 ├── QuestionService.java
-└── Main.java
+└── README.md
+```
 
-Class Description
+## 🔍 OOP Concepts Used
 
-Question.java
-Stores question details
-Contains options and correct answer
-Uses encapsulation with getters and setters
-QuestionService.java
-Manages quiz questions
-Displays questions to the user
-Collects answers
-Calculates final score
+- **Class & Object** – Represents questions and quiz operations.
+- **Encapsulation** – Protects question data using private variables.
+- **Constructor** – Initializes question objects.
+- **Abstraction** – Separates quiz logic from data handling.
+- **Modularity** – Organizes code into reusable components.
 
+## 🚀 How to Run
 
-Main.java
-Entry point of the application
-Creates QuizService object
-Starts the quiz
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/QuizApplication.git
+   ```
 
-🎯 OOP Concepts Used
-Classes and Objects
-Encapsulation
-Constructors
-Method Calling
-Data Abstraction
+2. Navigate to the project directory:
+   ```bash
+   cd QuizApplication
+   ```
 
-▶️ How to Run
-Clone the repository:
-git clone https://github.com/your-username/QuizApplication.git
+3. Compile the Java files:
+   ```bash
+   javac *.java
+   ```
 
+4. Run the application:
+   ```bash
+   java Main
+   ```
 
-Navigate to the project folder:
-cd QuizApplication
-Compile the Java files:
-javac *.java
-Run the application:
-java Main
+## 📸 Sample Output
 
+```text
+Welcome to the Quiz Application!
 
-📸 Sample Output
-Welcome to Quiz Application
+Question 1:
+size of int ?
+1. 1
+2. 2
+3. 3
+4. 4
 
-Q1. What is the capital of India?
-1. Mumbai
-2. Delhi
-3. Pune
-4. Chennai
-
-Enter your answer: 2
+Enter your answer: 4
 
 Correct!
 
---------------------------------
-
 Quiz Completed!
+Your Score: 5/5
+```
 
-Your Score: 4/5
+## 🎯 Learning Outcomes
 
+- Strengthened understanding of Java programming.
+- Gained hands-on experience with OOP concepts.
+- Improved problem-solving and application design skills.
+- Learned how to build interactive console-based applications.
 
-📚 Learning Outcomes
+## 🌟 Future Enhancements
 
-Understanding Object-Oriented Programming concepts
-Working with classes and objects
-Managing data using arrays and collections
-Handling user input in Java
-Building menu-driven applications
+- GUI using Java Swing or JavaFX
+- Database integration for storing questions
+- Timer-based quizzes
+- Difficulty levels
+- User authentication and score history
 
+---
 
-🔮 Future Enhancements
-
-GUI using Java Swing or JavaFX
-Database integration using JDBC
-Timer-based quiz
-Difficulty levels
-User authentication and score history
-Randomized questions
-
-👩‍💻 Author
-
-Manasi Magdum
-B.Tech Computer Science Engineering Student
-Java Developer | DSA Enthusiast | React Learner 🚀
-
-⭐ If you found this project helpful, consider giving it a star! ⭐
+⭐ If you found this project helpful, consider giving it a star!
