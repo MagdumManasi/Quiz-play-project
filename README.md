@@ -3,7 +3,7 @@
 A Java-based Quiz Application developed using Object-Oriented Programming (OOP) principles.
 This project provides an interactive quiz system where users can answer multiple-choice questions, receive scores, and test their knowledge through a simple console-based interface.
 
-🚀 Features
+🚀 Features :=>
 
 Multiple-choice questions
 Interactive console-based quiz
