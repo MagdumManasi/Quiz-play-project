@@ -22,7 +22,7 @@ The project is designed to demonstrate the practical implementation of Java fund
 
 ## 📂 Project Structure
 
-```text
+
 QuizApplication/
 │
 ├── Main.java
