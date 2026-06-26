@@ -2,7 +2,7 @@
 
 A console-based **Quiz Application** developed using **Java** and **Object-Oriented Programming (OOP)** principles. This application allows users to participate in a multiple-choice quiz, submit answers, and receive their final score at the end of the quiz.
 
-The project is designed to demonstrate the practical implementation of Java fundamentals and OOP concepts such as **Encapsulation, Abstraction, Classes, Objects, and Constructors** while building an interactive and user-friendly application.
+The project is designed to demonstrate the practical implementation of Java fundamentals and OOP concepts such as **Encapsulation, Abstraction, Classes, Objects, and Constructors** while building an interactive and user-friendly application..
 
 ## ✨ Features
 
