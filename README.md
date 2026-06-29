@@ -23,11 +23,15 @@ The project is designed to demonstrate the practical implementation of Java fund
 ## 📂 Project Structure
 
 
-QuizApplication/
+QuizApplication
+
 │
 ├── Main.java
+
 ├── Question.java
+
 ├── QuestionService.java
+
 └── README.md
 ```
 
